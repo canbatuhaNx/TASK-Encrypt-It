@@ -1,4 +1,4 @@
-# TASK Encrypt-It
+# TASK Encrypt-It - 2111502007 - 11.04.2023 16.10
 Kullanıcıdan alınan metin verisini şifreleyerek yeni bir çıktı oluşturma uygulaması.
  
 Shift Chiper ve Randomized seçenekleri olarak 2 farklı şifreleme yöntemi yapılabilir.
